@@ -1,0 +1,9 @@
+Instruction to run web app
+
+1. Unzip the file
+2. Open up folder 'frontend' and 'backend' in separate VS Code windows.
+3. For frontend, in the terminal, enter "npm run serve"
+4. For backend, in the terminal, enter "npm run dev"
+5. Open up http://localhost:8080/ in your browser
+
+Thank you and feel free to explore in our web site!
